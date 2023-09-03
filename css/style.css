@@ -12,3 +12,7 @@ body{
 .span{
     margin:auto
 }
+
+.li{
+    outline: none;
+}
