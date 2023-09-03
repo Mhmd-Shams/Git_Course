@@ -5,3 +5,7 @@ body{
 .div{
     display: flex;
 }
+
+.span{
+    font-display: initial;
+}
