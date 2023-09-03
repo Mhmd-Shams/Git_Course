@@ -5,3 +5,10 @@ body{
 .footer{
     display: flex;
 }
+.div{
+    display: flex;
+}
+
+.span{
+    margin:auto
+}
