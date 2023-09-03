@@ -15,4 +15,5 @@ body{
 
 .li{
     outline: none;
+    font-display: initial;
 }
